@@ -15,6 +15,8 @@ const text = `
 
 
 
+
+
 function openProjectTerminal() {
     const projectTerminal = document.querySelector(".project-terminal");
     projectTerminal.style.display = "block";

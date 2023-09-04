@@ -11,27 +11,47 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    overflow: hidden;
 }
 
 .terminal {
     flex: 1;
     margin: 10px;
+    overflow: hidden;
     /* Diğer stil özellikleri */
 }
 
+.all {
+    overflow: hidden;
+}
 
+body{
+    overflow: hidden;
+}
 
-
-
-.terminal {
+.terminal1 {
     width: 80%;
-    max-width: 800px;
-    height: 300px;
+    max-width: 400px;
+    height: 350px;
     margin: 50px auto;
     background-color: #000;
     border: 2px solid #00ff00;
     border-radius: 5px;
     box-shadow: 0px 0px 20px rgba(0, 255, 0, 0.5);
+    overflow: hidden;
+    text-align: center;
+}
+
+.terminal {
+    width: 80%;
+    max-width: 900px;
+    height: 350px;
+    margin: 50px auto;
+    background-color: #000;
+    border: 2px solid #00ff00;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px rgba(0, 255, 0, 0.5);
+    overflow: hidden;
 }
 
 .header {
@@ -115,4 +135,10 @@ a:hover {
 
 .social-icons a:hover {
     color: #fff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }

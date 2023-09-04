@@ -68,7 +68,7 @@ body{
 .content {
     padding: 10px;
     height: 300px;
-    overflow-y: scroll;
+    overflow-y: hidden;
 }
 
 pre {

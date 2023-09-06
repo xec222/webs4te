@@ -50,11 +50,11 @@ function closeTerminal() {
 }
 
 function minimizeTerminal() {
-    // Terminal penceresini simge durumuna küçültme işlemi burada yapılabilir.
+    
 }
 
 function maximizeTerminal() {
-    // Terminal penceresini tam ekran yapma işlemi burada yapılabilir.
+    
 }
 
 function openEmailDialog() {
@@ -74,8 +74,4 @@ emailForm.addEventListener("submit", function (e) {
     const subject = document.getElementById("subject").value;
     const message = document.getElementById("message").value;
 
-    // E-posta gönderme işlemi burada yapılabilir.
-    // Örneğin, JavaScript kullanarak bir e-posta API'si ile iletişim kurabilirsiniz.
-    // Bu API, gerçek bir e-posta gönderme işlemi gerçekleştirecektir.
-    // Örnek API'yi kullanmak için ilgili belgeleri okuyun ve uygun şekilde yapılandırın.
 });

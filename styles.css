@@ -18,7 +18,7 @@ body {
     flex: 1;
     margin: 10px;
     overflow: hidden;
-    /* Diğer stil özellikleri */
+   
 }
 
 .all {
@@ -84,7 +84,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* ... (Önceki CSS kodları) */
+
 
 .email-btn {
     cursor: pointer;
@@ -120,7 +120,7 @@ a:hover {
 }
 
 
-/* Önceki CSS kodları */
+
 .social-icons {
     margin-top: 20px;
     text-align: center;

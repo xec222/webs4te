@@ -1,12 +1,12 @@
 const text = `
-     Hi, I'm doas, programmer / red teaming solving ctf's and more
+     Hi, I'm Akif!, programmer / red teaming solving ctf's and more
      i like C, Python,
      I'm Front-End Developer
      Arch Linux enjoyer
      I have xmpp / matrix
      Feel Free To contact with me
 
-     my email : doasman@proton.me
+     my email : aripathm@proton.me
      
      
      
